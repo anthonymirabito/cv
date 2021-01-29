@@ -1,0 +1,29 @@
+body
+{
+    background-color: #d8d4f2;
+    color: #131417;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: double;
+    border-color: #e8c547;
+    border-width: 15px;
+    width: 100%;
+}
+
+h1
+{
+    color: #4d5061;
+}
+
+h3
+{
+    color: #30323d;
+}
+
+a
+{
+    color: blue;
+}
